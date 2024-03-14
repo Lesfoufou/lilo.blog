@@ -1,5 +1,9 @@
 +++
 title = "first post"
 draft = true
+footnotes = ""
 +++
-blub
+1. #### blub blub
+2. #### nein
+
+   ###### ***Es war einmal...***
